@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_bar_allproducts"
+        android:icon="@drawable/list"
+        android:title="@string/All_products"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/app_bar_new"
+        android:icon="@drawable/add"
+        android:title="@string/Add_a_product"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/app_bar_wishlist"
+        android:icon="@drawable/love"
+        android:title="@string/Wishlist"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/app_bar_myproducts"
+        android:title="@string/My__products"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_purchases"
+        android:title="@string/My_purchases"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_comments"
+        android:title="@string/My_Comments"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_summary"
+        android:title="@string/Summarytwo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_singout"
+        android:title="@string/Singout"
+        app:showAsAction="ifRoom" />
+
+</menu>
+

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AndroBusiness</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Summary">SUMMARY</string>
+    <string name="Title">Title:</string>
+    <string name="Name">Name</string>
+    <string name="MediumText">Medium Text</string>
+    <string name="Titles">Title</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Create_new_account">Create new account</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Add_a_comment_to_the_product">Add a comment to the product</string>
+    <string name="Enter_your_comment">Enter your comment:</string>
+    <string name="add_a_new_comment">Add</string>
+    <string name="Add_a_new_product">ADD</string>
+    <string name="take_picture">take picture</string>
+    <string name="Name_">Name:</string>
+    <string name="Description_">"Description: "</string>
+    <string name="Price_">"Price: "</string>
+    <string name="Purchased_Quantity">"Purchased quantity: "</string>
+    <string name="add">add</string>
+    <string name="Quantity">"Quantity: "</string>
+    <string name="Buy_now">Buy now</string>
+    <string name="Edit_product">EDIT</string>
+    <string name="retake_picture">retake picture</string>
+    <string name="Save_changes">Save changes</string>
+    <string name="Purchase_the_product">Purchase the product</string>
+    <string name="Enter">Enter the quantity you want:</string>
+    <string name="purchase_">purchase</string>
+    <string name="Purchased_products">"Purchased products: "</string>
+    <string name="My_products">"My products: "</string>
+    <string name="Total_profit">"Total profit: "</string>
+    <string name="Total_spend">"Total spend: "</string>
+    <string name="Total_likes">"Total likes: "</string>
+    <string name="Total_unlikes">"Total unlikes: "</string>
+    <string name="Sing_in_to_Account">"Sing in to Account"</string>
+    <string name="number">0</string>
+    <string name="All_products">All products</string>
+    <string name="Add_a_product">Add a product</string>
+    <string name="Wishlist">Wishlist</string>
+    <string name="My__products">My products</string>
+    <string name="My_purchases">My Purchases</string>
+    <string name="My_Comments">My Comments</string>
+    <string name="Summarytwo">Summary</string>
+    <string name="Singout">Singout</string>
+    <string name="My_product">My product</string>
+</resources>
